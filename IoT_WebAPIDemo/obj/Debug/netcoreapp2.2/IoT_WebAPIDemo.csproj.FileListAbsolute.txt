@@ -1,0 +1,17 @@
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\bin\Debug\netcoreapp2.2\appsettings.json
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\bin\Debug\netcoreapp2.2\IoT_WebAPIDemo.deps.json
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\bin\Debug\netcoreapp2.2\IoT_WebAPIDemo.runtimeconfig.json
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\bin\Debug\netcoreapp2.2\IoT_WebAPIDemo.runtimeconfig.dev.json
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\bin\Debug\netcoreapp2.2\IoT_WebAPIDemo.dll
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\bin\Debug\netcoreapp2.2\IoT_WebAPIDemo.pdb
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.csproj.AssemblyReference.cache
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.AssemblyInfoInputs.cache
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.AssemblyInfo.cs
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.csproj.CoreCompileInputs.cache
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.RazorAssemblyInfo.cache
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.RazorAssemblyInfo.cs
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.RazorTargetAssemblyInfo.cache
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.dll
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.pdb
+K:\WorkSpace20211\IoT\BT4_API\IoT_WebAPIDemo\IoT_WebAPIDemo\obj\Debug\netcoreapp2.2\IoT_WebAPIDemo.genruntimeconfig.cache
